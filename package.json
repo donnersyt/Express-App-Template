@@ -1,0 +1,22 @@
+{
+  "name": "express-app-template",
+  "version": "1.0.0",
+  "description": "Basic NodeJS Express Application framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnersyt/Express-App-Template.git"
+  },
+  "author": "Donners",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donnersyt/Express-App-Template/issues"
+  },
+  "homepage": "https://github.com/donnersyt/Express-App-Template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
